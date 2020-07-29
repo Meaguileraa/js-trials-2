@@ -15,7 +15,7 @@ function countWords(phrase) {
     }
     return wordCount;
 }
-console.log(countWords('Hackbright is awesome and is also great'))
+console.log(countWords('Hackbright is awesome and is also great'));
 
 
 // 2. getMelonsAtPrice
